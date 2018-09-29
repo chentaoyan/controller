@@ -2,10 +2,7 @@
 ARGoS
 
 # Set up
-
-``` $ cd controller ```
-
-``` $ cd cockroach ```
+under controller file 
 
 ``` $ cd build ```
 

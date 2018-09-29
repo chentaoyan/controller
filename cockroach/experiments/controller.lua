@@ -49,11 +49,11 @@ MAXIMUM_angular_velocity = 1*math.pi
 
 -- ADJUST variables
 ADJUST_DISTANCE = 15
-ADJUST_STOPTIME = 1
+ADJUST_STOPTIME = 0.5
 
 -- natural movement records
-move_or_stop = 1 -- 0 is move 1 is stop
-walk_or_turn = 0 --0 is walk 1 is turn
+move_or_stop = 0 -- 0 is move 1 is stop
+walk_or_turn = 1 --0 is walk 1 is turn
 nstop_time = 0
 nwalk_distance = 0
 nwalk_linear_velocity = 0
