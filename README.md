@@ -4,6 +4,8 @@ ARGoS
 # Set up
 under controller file 
 
+``` $ cd cockroach ```
+
 ``` $ cd build ```
 
 ``` $ cmake .. ```
